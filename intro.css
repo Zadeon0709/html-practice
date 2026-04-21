@@ -1,0 +1,48 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #f2f2f2;
+  margin: 0;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+  color: #333;
+}
+
+p {
+  color: #555;
+  line-height: 1.6;
+  margin: 0 0 0 0;
+}
+
+.image-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+
+.rotate-image {
+  max-width: 100%;
+  height: auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+#menace {
+  display: block;
+  margin: 20px auto;
+  margin-right: 50px;
+  border-radius: 10px;
+  max-width: 100%;
+  height: auto;
+  float: left;
+}
+
+#me {
+  font-family: verdana;
+  font-size: 100%;
+  color: #555;
+  line-height: 1.6;
+}
