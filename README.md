@@ -1,3 +1,3 @@
 #Practice Webpage
 
-Just experimenting eith HTML & CSS
+Just experimenting with HTML & CSS
